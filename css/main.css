@@ -1,6 +1,9 @@
+/* Styling the Div to create a  */
+
 .speech-bubble{
-    color: green;
+    color: red;
     background-color: rgb(63, 134, 241);
     height: 15em;
     width: 15em;
+    border-radius: 20px;
 }
