@@ -3,7 +3,7 @@
 .speech-bubble{
     color:;
     background-color: rgb(63, 134, 241);
-    height: 15em;
-    width: 15em;
+    height: 10rem;
+    width: 20rem;
     border-radius: 20px;
 }
