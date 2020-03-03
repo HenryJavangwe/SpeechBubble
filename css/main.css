@@ -5,9 +5,20 @@
     background-color: rgb(63, 134, 241);
     height: 10rem;
     width: 20rem;
-    border-top-right-radius: 20px;
-    border-bottom-right-radius: 20px;
-    border-bottom-left-radius: 20px;
+    border-radius: ;
+    position: absolute;
+    border-radius: 20px;
     
+}
+
+.speech-bubble .arrow{
+    border-style: solid;
+    position: absolute;
+}
+
+.top{
+    border-color:#c8c8c8 transparent transparent transparent;
+    border-width: 0px 15px 15px 15px;
+    top: +20px;
 }
 
